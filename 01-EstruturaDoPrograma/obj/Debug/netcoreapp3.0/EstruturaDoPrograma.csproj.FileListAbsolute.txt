@@ -1,0 +1,13 @@
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\Flavio\Documents\GitHub\Bootcamp-Banco-Carrefour-DIO\CSharp-Examples\csharp-examples-master\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
